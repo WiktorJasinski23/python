@@ -1,4 +1,2 @@
-lab1/.idea/
-lab2/.idea/
-lab2/venv/
-lab1/venv/
+lab[1-9]/.idea/
+lab[1-9]/venv/
