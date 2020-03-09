@@ -23,8 +23,6 @@ if len(argv) > 1:
     print(numberOfLetters)
     numberOfLetters.sort(key=lambda x: x[1])
     print(numberOfLetters)
-    # a e i o u y
-    # vowels- samo consonants - spół
     vowels = ('a', 'e', 'i', 'o', 'u', 'y')
     vowelsFromLower = sum(1 for x in myStr if x.lower() in vowels)
     consonantsFromLower = sum(1 for x in myStr if x.isalpha()) - vowelsFromLower
@@ -43,5 +41,5 @@ if len(argv) > 1:
 
 
 else:
-    print('Prosze podac argumrnty wywolania, na przyklad python zad2.py pies kot')
+    print('Please set program arguments, for example zad.py Dog Cat 123 !')
 
