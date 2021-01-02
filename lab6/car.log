@@ -1,0 +1,120 @@
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ The program is creating a CarModel object.
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ The program is creating a CarModel object.
+INFO
+ The program is creating a Car object
+INFO
+ Creating the environment...
+INFO
+ Starting the environment...
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+INFO
+ The weather is changing...
+INFO
+ The sun is shining bright!
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+INFO
+ The weather is changing...
+INFO
+ The sun is shining bright!
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+INFO
+ You just barely managed to avoid the crash!
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+INFO
+ Oh look! A hitchhiker! I think he's going in the same direction as you! He looks hopeful!
+INFO
+ You may take another passenger with you! What's your decision? Yes/No
+INFO
+ You blabbered some incomprehensible stuff at the hitchhiker. He probably thinks you are a weirdo. He leaves while muttering some words to himself.
+INFO
+ // end of hitchhiker appearance //
+INFO
+ None
+INFO
+ The weather is changing...
+INFO
+ It is raining heavily!
+INFO
+ The weather is changing...
+INFO
+ It is raining heavily!
+INFO
+ Currently supported acts: Accelerate, Slow_down, Stop, Turn_left, Turn_right, Get_car_info, Check_money, Menu_info, Quit
+Accelerate, Slow_down, Turn_left and Turn_right need an amount next to them to work.
+ 
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+ERROR
+ Something was wrong with your input. Please try again
+INFO
+ Something was wrong with your input. Please try again
+INFO
+ The weather is changing...
+INFO
+ The sun is shining bright!
+INFO
+ The weather is changing...
+INFO
+ The sun is shining bright!
